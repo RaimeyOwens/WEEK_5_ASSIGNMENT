@@ -1,4 +1,4 @@
-# Assignment 4: Search Performance Analysis
+# Assignment 3: Search Performance Analysis
 
 ## Setup Instructions
 
